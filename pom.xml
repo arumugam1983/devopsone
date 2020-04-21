@@ -38,7 +38,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:arumugam1983/devopsone.git</connection>
 		<developerConnection>scm:git:git@github.com:arumugam1983/devopsone.git</developerConnection>
-		<url>git@github.com:arumugam1983/devopsone.git</url>
+		<url>git@github.com:arumugam1983/devopsone.git</url> 
 		<tag>HEAD</tag>
 	</scm>
 
